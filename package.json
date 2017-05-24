@@ -1,6 +1,6 @@
 {
   "name": "repotest_everis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "first repo test",
   "main": "index.js",
   "engines": {
