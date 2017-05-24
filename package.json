@@ -1,0 +1,31 @@
+{
+  "name": "repotest_everis",
+  "version": "1.0.0",
+  "description": "first repo test",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuciaVivero/repoTest.git"
+  },
+  "keywords": [
+    "everis",
+    "test",
+    "repo"
+  ],
+  "author": "“Xavi <“xavier.zanatta@everis.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuciaVivero/repoTest/issues"
+  },
+  "homepage": "https://github.com/LuciaVivero/repoTest#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
